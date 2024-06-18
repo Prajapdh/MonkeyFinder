@@ -1,5 +1,9 @@
 # MonkeyFinder
 
+<div align="center">
+	<img src="./HomePage.png">
+</div>
+
 MonkeyFinder is a .NET MAUI application that helps users find information about different types of monkeys.
 
 ## Table of Contents
