@@ -1,0 +1,20 @@
+# Ignore generated files
+*.dll
+*.pdb
+*.obj
+*.vs
+
+# Ignore generated files for Xamarin.Forms
+*.xamarin
+*.xamarin.cs
+
+# Ignore generated files for Maui
+MauiApp.g.csproj.user
+MauiApp.csproj.user
+
+# Ignore files that are not necessary for the project
+bin/
+obj/
+*.suo
+*.sln.docstates
+*.user
